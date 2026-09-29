@@ -1,0 +1,119 @@
+{
+  "version": "2026.1",
+  "name": "Esyasoft Freshers Survival & Training Knowledge Base",
+  "lastUpdated": "2026-09-25",
+  "scope": [
+    "Daily Schedule",
+    "Attendance & Leave",
+    "Campus Life & Recreation",
+    "Benefits & Support",
+    "Training Programme"
+  ],
+  "categories": {
+    "daily_schedule": {
+      "title": "Daily Schedule & Timing Routine",
+      "sectionLink": "#roadmap",
+      "sectionName": "15-Day Roadmap",
+      "keywords": [
+        "schedule", "daily schedule", "routine", "time", "timing", "timetable", "timeline",
+        "wake up", "breakfast", "morning", "afternoon", "evening", "lecture", "lab", "lunch",
+        "tea", "dinner", "punch in time", "punch out time", "hours", "alarm"
+      ],
+      "summary": "Structured daily cadence followed by Batch 2026 engineers to excel in training and maintain compliance.",
+      "points": [
+        "07:15 AM — Wake-up followed by a 20-minute morning stretch or gym session at the campus wellness center.",
+        "08:15 AM — Cafeteria breakfast (Adya Foods poori, upma, boiled egg, coconut chutney) and morning coffee refill.",
+        "08:50 AM — Arrive at the training facility and complete Biometric Punch-IN before the strict 09:00 AM cutoff.",
+        "09:00 AM to 01:00 PM — Morning Domain Deep-Dive Lecture sessions on Smart Grids, AMI, and HES architectures.",
+        "01:00 PM to 02:00 PM — Lunch break in the cafeteria and a relaxing stroll around the campus greens.",
+        "02:00 PM to 05:30 PM — Afternoon hands-on lab, coding sandbox, and MDM / VEE pipeline exercises.",
+        "05:30 PM to 06:45 PM — Evening cutting chai, snacks, and recreation (Foosball, Billiards, Table Tennis, Gym).",
+        "06:45 PM — Biometric Punch-OUT on scanner terminal before heading out (salary secured for the day!).",
+        "08:00 PM — Dinner, cohort banter, weekend coastal getaway planning, and restful sleep.",
+        "Pro Tip: Set a recurring daily smartphone alarm at 08:52 AM labeled 'RUN TO BIOMETRICS' to avoid cutoff panic."
+      ]
+    },
+    "attendance_and_leave": {
+      "title": "Attendance, Biometrics & Leave Policies",
+      "sectionLink": "#punch-tracker",
+      "sectionName": "Biometric Check-In Tracker",
+      "keywords": [
+        "attendance", "leave", "leaves", "punch", "punch in", "punch out", "biometric", "check in",
+        "check out", "prabhu", "salary rule", "zoho", "zoho people", "regularisation", "regularize",
+        "absent", "permission", "late", "cutoff", "emergency leave", "medical leave", "sick", "fingerprint"
+      ],
+      "summary": "Mandatory HR attendance rules, biometric scanner requirements, and Zoho People regularization procedures.",
+      "points": [
+        "Prabhu's Immortal Golden Rule: 'If you forgot to check in check out you won't get salary!' Compliance is mandatory.",
+        "Biometric Punch IN: Must be completed at the terminal scanner before 09:00 AM sharp every weekday morning.",
+        "Biometric Punch OUT: Completed upon finishing training at 06:30 PM / 06:45 PM to complete your daily record.",
+        "Zoho People Integration: Terminal biometric punches automatically synchronize with your Zoho People attendance card.",
+        "Attendance Regularisation: If you forget to punch IN or OUT, you must submit a regularisation request via Zoho People (Attendance > Apply Regularisation) with a valid reason before 11:00 AM.",
+        "100% Attendance Expectation: The 3-month foundation training program moves rapidly; full physical attendance is expected.",
+        "Emergency & Medical Leaves: Apply formally under Zoho People > Leave Tracker and notify Manager Prabhu / Training Coordinator via email or Microsoft Teams in advance.",
+        "Assessment Sprints: Casual leaves are strictly restricted during ongoing evaluation modules and require prior leadership sign-off."
+      ]
+    },
+    "campus_life": {
+      "title": "Campus Life, Recreation & Accommodation",
+      "sectionLink": "#campus-hub",
+      "sectionName": "Campus Life Hub",
+      "keywords": [
+        "campus", "campus life", "gym", "workout", "fitness", "foosball", "billiards", "table tennis", "tt",
+        "library", "study", "books", "cafeteria", "mess", "food", "breakfast", "cutting chai",
+        "accommodation", "hostel", "room", "living", "sofa", "tv", "lounge", "mosquito", "spike guard"
+      ],
+      "summary": "Recreation facilities, sports arenas, cafeteria tips, and room living essentials for Batch 2026.",
+      "points": [
+        "Foosball & Gaming Arena (Level 2): 2-vs-2 battles and billiards tables open 05:00 PM – 08:00 PM.",
+        "Foosball Etiquette: Absolutely NO 360-degree rod spinning (Prabhu can hear rattling rods down the hall!), keep goal celebrations modest, and clear balls swiftly.",
+        "Campus Gym & Fitness Arena (Level 1): Cardio treadmills, dumbbells, and cable towers open morning and evening. Mural motto: 'Only Bad Workout Is The One You Don't Do.'",
+        "Campus Library & Study Lounge: Backlit geometric bookshelves and ergonomic reading pods with smart-grid literature. Hours: 08:00 AM – 10:30 PM (keep phones on silent/vibrate).",
+        "Cafeteria & Food Services (Adya Foods): Daily breakfast (poori, upma, boiled eggs, chutney), wholesome lunch thalis, and steaming 05:30 PM cutting chai.",
+        "Accommodation Living Suites: Air-conditioned living lounge with flat-screen smart TV, sofa couches, and spacious dorms.",
+        "Room Essentials Checklist: Multi-plug spike guard with surge protector, GoodKnight mosquito repellent, 1L insulated water bottle, and quick-dry microfiber bath towels."
+      ]
+    },
+    "benefits_and_support": {
+      "title": "Stipend, Benefits & IT Helpdesk Support",
+      "sectionLink": "#faqs",
+      "sectionName": "Fresher FAQs & Support",
+      "keywords": [
+        "benefits", "benefit", "stipend", "salary", "pay", "deduction", "payment", "support",
+        "it support", "it helpdesk", "helpdesk", "vpn", "laptop", "credentials", "wifi", "asset",
+        "password", "teams", "outlook", "email", "hr", "medical", "health", "insurance"
+      ],
+      "summary": "Monthly stipend guidelines, IT hardware provisioning, corporate credentials, and employee support channels.",
+      "points": [
+        "Monthly Stipend / Salary: Processed on time based on verified biometric punch records synced from Zoho People; maintaining zero punch flags protects your full payout.",
+        "Enterprise IT Provisioning: Every fresher is issued a high-performance corporate laptop, secure VPN credentials, MFA authentication, and high-speed Wi-Fi access.",
+        "Corporate Communications: Microsoft Outlook (@esyasoft.com) for formal calendar lectures and Discom briefs; Microsoft Teams for live labs, chat, and mentor screen-shares.",
+        "IT Helpdesk & Sandbox Support: Never install unauthorized third-party VPNs. Raise support tickets on the internal Esyasoft IT Portal or post in the MS Teams IT Support channel with your employee ID and asset tag.",
+        "Mentor & Coordinator Support: Training coordinators and senior domain architects are accessible daily on MS Teams and in the training facility to unblock technical or personal issues."
+      ]
+    },
+    "training_programme": {
+      "title": "Training Programme, Smart Grid Curriculum & Core Values",
+      "sectionLink": "#roadmap",
+      "sectionName": "15-Day Roadmap & Curriculum",
+      "keywords": [
+        "training", "programme", "program", "curriculum", "smart grid", "ami", "mdm", "vee",
+        "hes", "meters", "rf mesh", "cellular", "nb-iot", "discom", "endpoints", "batch 2026",
+        "creed", "values", "pillars", "delivery excellence", "people first", "technology excellence",
+        "explore grow prosper", "just go with the flow", "phase 1", "90 days", "15 days"
+      ],
+      "summary": "The 90-day graduate roadmap, smart metering technical architecture, and Esyasoft's guiding corporate pillars.",
+      "points": [
+        "Programme Structure: 3-month (90-day) intensive engineering onboarding; Batch 2026 has successfully survived the first 15-day crucible (16.7% Grid Ready).",
+        "Phase 1 Induction (Days 1–2): Executive leadership welcome, biometric enrollment, Zoho People setup, Outlook & Teams provisioning.",
+        "Smart Grid & AMI Architecture (Days 3–6): Smart meters, two-way communication gateways (RF Mesh, Cellular NB-IoT/4G), and Head-End Systems (HES).",
+        "Meter Data Management & VEE (Days 7–10): MDM data ingestion engines, VEE (Validation, Estimation, and Editing) rules, interval load profiles, and billing determinants.",
+        "Grid Edge Analytics & Loss Reduction (Days 11–15): Transformer load monitoring, tamper/theft detection, and Aggregate Technical & Commercial (AT&C) loss reduction for 40+ global Discoms.",
+        "Esyasoft Scale: Global smart grid leader with 50M+ connected smart endpoints across 10+ countries.",
+        "Our Guiding Creed: 'Explore, Grow, Prosper' supported by the 3 Core Pillars: 1) Delivery Excellence, 2) People First, 3) Technology Excellence.",
+        "Fresher Motto: 'Just Go With The Flow' — stay curious, embrace teamwork, and thrive through every technical sprint."
+      ]
+    }
+  },
+  "outOfScopeResponse": "This is out of my scope and I cannot answer it. I can only assist with questions regarding our schedule, attendance, campus life, benefits, and training program."
+}
